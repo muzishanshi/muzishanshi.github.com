@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[文章标题]]></title>
     <url>%2F2018%2F11%2F06%2F%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[测试]]></content>
       <categories>
         <category>测试分类</category>
       </categories>
